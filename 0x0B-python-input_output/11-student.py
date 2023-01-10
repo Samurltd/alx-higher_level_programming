@@ -54,4 +54,4 @@ class Student():
             elif (dict_des.get(key) == self.last_name):
                 self.last_name = value
             elif (dict_des.get(key) == self.age):
-                self.age =
+                self.age = value
